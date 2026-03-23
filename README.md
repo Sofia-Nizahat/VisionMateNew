@@ -8,7 +8,7 @@
 Develop an AI-powered assistive solution that enhances independent mobility for visually impaired individuals by providing real-time environmental awareness and voice-guided navigation.
 ---
 
-## 🎥 Demo Video : https://drive.google.com/file/d/1QWmtHb90xKzSwSZfNd-PG_VWGftEHoJP/view?usp=sharing  
+## 🎥 Demo Video : https://drive.google.com/file/d/1jV8JLNCsoUlf4T_8NYzVfPKAll_G1bDN/view
 
 ---
 
